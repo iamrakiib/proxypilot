@@ -1,0 +1,27 @@
+{
+  "name": "adv-click-bot",
+  "version": "1.0.0",
+  "main": "clickbot.js",
+  "scripts": {
+    "start": "node clickbot.js",
+    "start:adspower": "ADSP_USE=1 node clickbot.js",
+    "start:adspower:win": "set ADSP_USE=1&& node clickbot.js"
+  },
+  "keywords": [
+    "playwright",
+    "adspower",
+    "ipqs",
+    "browser-automation"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "Playwright browser automation with optional AdsPower profile management and IPQS proxy checks.",
+  "dependencies": {
+    "fs-extra": "^11.3.2",
+    "playwright": "^1.56.1",
+    "xlsx": "^0.18.5"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

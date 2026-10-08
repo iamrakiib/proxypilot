@@ -1,0 +1,11 @@
+# Publish only reviewed source and documentation. Local data stays private.
+/*
+!/.gitignore
+!/README.md
+!/PUBLISHING.md
+!/package.json
+!/package-lock.json
+!/clickbot.js
+!/ads-config.example.json
+!/groups.example.json
+!/proxies.example.txt

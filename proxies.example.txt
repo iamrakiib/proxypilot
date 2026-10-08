@@ -1,0 +1,1 @@
+http://YOUR_USERNAME:YOUR_PASSWORD@proxy.example.com:8080
