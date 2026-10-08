@@ -1,4 +1,4 @@
-// Adv Click Bot — AdsPower profiles (CREATE → open ALL links in ONE group in PARALLEL → STOP → DELETE)
+// ProxyPilot — AdsPower profiles (CREATE → open ALL links in ONE group in PARALLEL → STOP → DELETE)
 //
 // Behaviour:
 //   ✓ Proxies taken sequentially (wraps around when list exhausted)

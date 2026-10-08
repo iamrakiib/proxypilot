@@ -1,6 +1,8 @@
-# AdsPower + IPQS Browser Automation
+# ProxyPilot
 
-A Node.js browser automation project built with Playwright, with optional AdsPower profile management and IPQualityScore (IPQS) proxy checks.
+Browser session automation with Playwright, AdsPower, and IPQualityScore.
+
+ProxyPilot manages proxy-based desktop and mobile browser sessions, with optional AdsPower profile management and IPQS proxy checks.
 
 ## Features
 

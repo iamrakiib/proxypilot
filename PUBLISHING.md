@@ -31,12 +31,12 @@ git commit -m "Prepare browser automation project for GitHub"
 
 ## Create the GitHub repository
 
-Create an empty repository named adspower-ipqs-automation. Start private while reviewing. Do not add a README, .gitignore, or license in GitHub's creation screen because your local project already has its own files.
+Create an empty repository named proxypilot. Start private while reviewing. Do not add a README, .gitignore, or license in GitHub's creation screen because your local project already has its own files.
 
 Copy the HTTPS repository URL and replace the placeholder below:
 
 ~~~powershell
-git remote add origin https://github.com/YOUR_USERNAME/adspower-ipqs-automation.git
+git remote add origin https://github.com/YOUR_USERNAME/proxypilot.git
 git push -u origin main
 ~~~
 
